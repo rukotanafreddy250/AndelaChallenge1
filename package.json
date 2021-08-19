@@ -1,0 +1,14 @@
+{
+  "name": "challenge_one",
+  "version": "1.0.0",
+  "description": "this is for the intro to web development",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "freddy",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
